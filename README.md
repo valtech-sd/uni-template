@@ -12,19 +12,20 @@ Repository template for Unity project (Owner Natan Couture Dumais)
 
 ## How To Pull the Project
 1. Download all needed tools from listed software requirements above.
-1. [Clone the repostory](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) from GitHub.
+1. [Clone the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) from GitHub.
 1. Use LFS to pull all files: `git lfs pull`.  Otherwise, you may get errors from missing expected files.
 1. In Unity Hub > Installs, install the Unity Editor for the LTS version used by the repository currently, 2021.3.11f1.
 
 ## How To Make Changes to the Project
-1. Edit the scenes and components via the Unity Editor
-1. Edit the scripts via your script editor
+1. In Unity Hub > Projects, open the local repository for the project.
+1. Edit the scenes and components via the Unity Editor.
+1. Edit the scripts via your script editor.
 
-## How To Push Chnages to the Project
-1. `git status` to check file changed
-1. `git restore {file}` to unstage files that should not be commited
-1. `git add {file}` to stage files that should be commited
-1. `git commit -m "{change info}"` to commit the files
+## How To Push Changes to the Project
+1. `git status` to check file changed.
+1. `git restore {file}` to unstage files that should not be commited.
+1. `git add {file}` to stage files that should be commited.
+1. `git commit -m "{change info}"` to commit the files.
 1. `git push` to push changes to GitHub.
 
 ## Useful References
