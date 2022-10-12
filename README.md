@@ -7,8 +7,8 @@ Repository template for Unity project (Owner Natan Couture Dumais)
 ## Software Requirements
 1. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to use the repository.
 1. [Git LFS](https://git-lfs.github.com/) to access the large asset files in the repository.
-1. [Unity Hub](https://unity3d.com/get-unity/download) to manage Unity versions and projects.
-1. [a script editor](https://www.dunebook.com/best-unity-ide/)
+1. [Unity Hub](https://unity3d.com/get-unity/download) to manage Unity versions and projects and to install the Unity editor.
+1. [a script editor](https://www.dunebook.com/best-unity-ide/) to edit scripts.
 
 ## How To Pull the Project
 1. Download all needed tools from listed software requirements above.
